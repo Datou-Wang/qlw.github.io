@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Ocean acoustics, DAS and Whale call observation.
 
 interests:
   - Ocean acoustics
@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - CV
 ---
 
-I'm Qile Wang, a Ph.D. candidate in ocean acoustics at Zhejiang University, Hangzhou, China. My research focuses on marine environment sensing based on distributed acoustic sensing technologies, including marine biology, ships, and other underwater acoustic targets.
+I’m Qile Wang, a Ph.D. candidate in ocean acoustics at Zhejiang University, Hangzhou, China. My research focuses on marine environment sensing based on distributed acoustic sensing technologies, including marine biology, ships, and other underwater acoustic targets.
