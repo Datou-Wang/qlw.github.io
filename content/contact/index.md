@@ -53,7 +53,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: contact.jpg
+          filename: ZJU.jpg
           filters:
             brightness: 1
           parallax: false
