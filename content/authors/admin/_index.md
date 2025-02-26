@@ -21,15 +21,10 @@ organizations:
 bio: My research interests include Ocean acoustics, DAS and Whale call observation.
 
 
-Professional Skills:
-  - Programming Language (Python and MATLAB)
-
-  - Tools (Adobe Illustrator, GMT, SPECFEM2D/3D, COMSOL)
-
 interests:
-  - Ocean acoustics
-  - Distributed acoustic sensing (DAS)
-  - Whale call observation
+  - Research interests (Ocean acoustics; DAS; Whale call observation)
+  - Skills (Python; Matlab; Adobe Illustrator; COMSOL; SPECFEM)
+  - Hobbies (Running; cooking and driving)
 
 education:
   courses:
