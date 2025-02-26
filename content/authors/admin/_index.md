@@ -38,12 +38,12 @@ education:
       year: 2023-Present
 
 
-    - course: MEng in Marine science
+    - course: MSc in Marine science
       institution: Zhejiang Ocean University
       year: 2020-2023
 
 
-    - course: BSc in Electronic information science and technology
+    - course: BE in Electronic information science and technology
       institution: Henan Agricultural University
       year: 2014-2018
 

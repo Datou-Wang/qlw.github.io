@@ -21,13 +21,13 @@ sections:
   - block: hero
     content:
       title: |
-        Ocean sound field modeling
+        Ocean Sound Field Modeling
       image:
         filename: modeling.png
       text: |
         <br>
         
-        Full waveguide (seawater-seafloor) acoustic field modeling based on the finite element method (FEM).
+        Full waveguide (seawater and elastic seafloor) acoustic field modeling based on the finite element method (FEM).
 
         (2020-2023)
   
