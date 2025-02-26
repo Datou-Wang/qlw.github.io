@@ -13,12 +13,9 @@ main:
   - name: CV
     url: people
     weight: 30
-  - name: Research
-    url: Research
-    weight: 40
   - name: Publications
     url: publication
-    weight: 50
+    weight: 40
   - name: Contact
     url: contact
-    weight: 60
+    weight: 50
