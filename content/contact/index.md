@@ -9,9 +9,9 @@ sections:
     content:
       title: Contact
       text: |-
-        L.
+        If you have any questions, please contact me via email.
       email: 12334102@zju.edu.cn
-      phone: 888 888 88 88
+      phone: 8
       address:
         street: No.1, Zheda Road
         city: Zhoushan
@@ -22,7 +22,6 @@ sections:
       coordinates:
         latitude: '30.0046'
         longitude: '122.1758'
-      directions: E
 
       appointment_url: 'https://calendly.com'
       #contact_links:
