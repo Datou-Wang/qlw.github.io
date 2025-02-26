@@ -1,12 +1,12 @@
 ---
 title: "Passive acoustic localization of submarine cable breakdowns using MUSIC algorithm combined with deep learning"
 authors:
+- Jiangzheng Shu
 - admin
-- Robert Ford
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2024-02-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
