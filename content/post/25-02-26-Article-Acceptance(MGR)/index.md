@@ -1,5 +1,5 @@
 ---
-title: My first work during my PhD was accepted by Marine Geophysical Research (MGR)!
+title: First work during my PhD was accepted by Marine Geophysical Research (MGR)!
 date: 2025-02-26
 ---
 

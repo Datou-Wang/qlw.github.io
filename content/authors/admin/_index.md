@@ -54,7 +54,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: '12334102@zju.edu.cn'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
