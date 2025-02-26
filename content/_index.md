@@ -10,7 +10,7 @@ sections:
       title: |
         Submarine Cable Route Localization
       image:
-        filename: Submarine-Cable-Localization.jpg
+        filename: Submarine-Cable-Localization.png
       text: |
         <br>
         
@@ -22,9 +22,9 @@ sections:
         Wowchemy
         Research Group
       image:
-        filename: welcome.jpg
+        filename: 
       text: |
         <br>
         
-        The **Wowchemy Research Group** h.
+        ...**Updating**...
 ---
