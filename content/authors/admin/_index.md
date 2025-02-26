@@ -24,6 +24,10 @@ interests:
   - Ocean acoustics
   - Distributed acoustic sensing (DAS)
   - Whale call observation
+Professional Skills:
+  - Programming Language (Python and MATLAB)
+  - Tools (Adobe Illustrator, GMT, SPECFEM2D/3D, COMSOL)
+  - Whale call observation
 
 education:
   courses:
@@ -36,11 +40,6 @@ education:
     - course: BSc in Electronic information science and technology
       institution: Henan Agricultural University
       year: 2014-2018
-
-Professional Skills:
-  - Programming Language (Python and MATLAB)
-  - Tools (Adobe Illustrator, GMT, SPECFEM2D/3D, COMSOL)
-  - Whale call observation
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -69,7 +68,7 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
