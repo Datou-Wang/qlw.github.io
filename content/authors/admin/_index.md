@@ -82,6 +82,6 @@ user_groups:
   - Researcher
 ---
 
-Im Qile Wang, a Ph.D. candidate from Zhejiang University. Im working with Prof. Jianmin Lin in Ocean College on ocean acoustics, which focuses on marine environment sensing and target detection based on distributed acoustic acoustic sensing (DAS).
+Im Qile Wang, a Ph.D. candidate from Zhejiang University. I am studying ocean acoustics under the guidance of Prof. Jianmin Lin in Ocean College, whose research focuses on marine environment monitoring and target detection based on distributed acoustic sensing (DAS).
 
-My research focuses on marine environment sensing based on distributed acoustic sensing technologies, including marine biology, ships, and other underwater acoustic targets.
+My research focuses on marine environment sensing based on DAS technologies, including whale call, ship noise, and other marine background noise.
