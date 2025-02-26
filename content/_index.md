@@ -19,8 +19,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Whale call observation
       image:
         filename: 
       text: |

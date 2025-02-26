@@ -20,13 +20,15 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Ocean acoustics, DAS and Whale call observation.
 
+
+Professional Skills:
+  - Programming Language (Python and MATLAB)
+  
+  - Tools (Adobe Illustrator, GMT, SPECFEM2D/3D, COMSOL)
+
 interests:
   - Ocean acoustics
   - Distributed acoustic sensing (DAS)
-  - Whale call observation
-Professional Skills:
-  - Programming Language (Python and MATLAB)
-  - Tools (Adobe Illustrator, GMT, SPECFEM2D/3D, COMSOL)
   - Whale call observation
 
 education:
@@ -34,9 +36,11 @@ education:
     - course: PhD in Ocean technology and Engineering
       institution: Zhejiang University
       year: 2023-Present
+
     - course: MEng in Marine science
       institution: Zhejiang Ocean University
       year: 2020-2023
+
     - course: BSc in Electronic information science and technology
       institution: Henan Agricultural University
       year: 2014-2018
@@ -76,4 +80,5 @@ user_groups:
   - Researcher
 ---
 
-Im Qile Wang, a Ph.D. candidate in ocean acoustics at Zhejiang University, Hangzhou, China. My research focuses on marine environment sensing based on distributed acoustic sensing technologies, including marine biology, ships, and other underwater acoustic targets.
+Im Qile Wang, a Ph.D. candidate from Zhejiang University. Im working with Prof. Jianmin Lin in Ocean College on ocean acoustics, which focuses on marine environment sensing and target detection based on distributed acoustic acoustic sensing (DAS).
+My research focuses on marine environment sensing based on distributed acoustic sensing technologies, including marine biology, ships, and other underwater acoustic targets.
