@@ -24,7 +24,7 @@ bio: My research interests include Ocean acoustics, DAS and Whale call observati
 interests:
   - Research interests (Ocean acoustics; DAS; Whale call observation)
   - Skills (Python; Matlab; Adobe Illustrator; COMSOL; SPECFEM)
-  - Hobbies (Running; cooking and driving)
+  - Hobbies (Running; Cooking; Driving)
 
 education:
   courses:
@@ -77,6 +77,6 @@ user_groups:
   - Researcher
 ---
 
-Im Qile Wang, a Ph.D. candidate from Zhejiang University in Hangzhou, China. I am studying ocean acoustics under the guidance of Prof. Jianmin Lin in Ocean College, whose research focuses on marine environment monitoring and target detection based on distributed acoustic sensing (DAS).
+Im Qile Wang, a Ph.D. candidate from Zhejiang University in Hangzhou, China. I am studying ocean acoustics under the guidance of Prof. Jianmin Lin in Ocean College, whose research focuses on marine environment monitoring and target detection based on distributed acoustic sensing (DAS). My research focuses on marine environment sensing based on DAS technologies, including whale call, ship noise, and other marine background noise.
 
-My research focuses on marine environment sensing based on DAS technologies, including whale call, ship noise, and other marine background noise.
+I have attended many international academic conferences and made oral presentations. I assisted and guided 3 undergraduates to complete their graduation thesis. In my spare time, I like long-distance running and have participated in many competitions such as the campus Marathon and Zhoushan Marathon.
