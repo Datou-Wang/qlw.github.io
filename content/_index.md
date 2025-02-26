@@ -16,6 +16,21 @@ sections:
         
         Submarine optical-fiber distributed acoustic sensing (DAS) combined with ship-borne sound sources can quickly locate long-distance submarine cable route.
 
+        (2023-2025)
+
+  - block: hero
+    content:
+      title: |
+        Ocean sound field modeling
+      image:
+        filename: modeling.png
+      text: |
+        <br>
+        
+        Full waveguide (seawater-seafloor) acoustic field modeling based on the finite element method (FEM).
+
+        (2020-2023)
+  
   - block: hero
     content:
       title: |
