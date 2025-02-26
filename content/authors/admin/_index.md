@@ -37,6 +37,11 @@ education:
       institution: Henan Agricultural University
       year: 2014-2018
 
+Professional Skills:
+  - Programming Language (Python and MATLAB)
+  - Tools (Adobe Illustrator, GMT, SPECFEM2D/3D, COMSOL)
+  - Whale call observation
+
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -72,4 +77,4 @@ user_groups:
   - Researcher
 ---
 
-I’m Qile Wang, a Ph.D. candidate in ocean acoustics at Zhejiang University, Hangzhou, China. My research focuses on marine environment sensing based on distributed acoustic sensing technologies, including marine biology, ships, and other underwater acoustic targets.
+Im Qile Wang, a Ph.D. candidate in ocean acoustics at Zhejiang University, Hangzhou, China. My research focuses on marine environment sensing based on distributed acoustic sensing technologies, including marine biology, ships, and other underwater acoustic targets.
