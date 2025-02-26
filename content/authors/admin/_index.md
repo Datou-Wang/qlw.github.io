@@ -27,15 +27,15 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Ocean technology and Engineering
+      institution: Zhejiang University
+      year: 2023-Present
+    - course: MEng in Marine science
+      institution: Zhejiang Ocean University
+      year: 2020-2023
+    - course: BSc in Electronic information science and technology
+      institution: Henan Agricultural University
+      year: 2014-2018
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -72,4 +72,4 @@ user_groups:
   - Researchers
 ---
 
-I'm Qile Wang, a Ph.D. candidate in marine acoustics at Zhejiang University, Hangzhou, China. My research focuses on marine environment sensing based on distributed acoustic sensing technologies, including marine organisms, ships, and other underwater acoustic targets.
+I'm Qile Wang, a Ph.D. candidate in ocean acoustics at Zhejiang University, Hangzhou, China. My research focuses on marine environment sensing based on distributed acoustic sensing technologies, including marine organisms, ships, and other underwater acoustic targets.
