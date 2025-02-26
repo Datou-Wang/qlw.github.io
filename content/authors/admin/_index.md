@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include Ocean acoustics, DAS and Whale call observation.
 
 
-capacities:
+interests:
   - Research interests (Ocean acoustics; DAS; Whale call observation)
   - Skills (Python; Matlab; Adobe Illustrator; COMSOL; SPECFEM)
   - Hobbies (Running; Cooking; Driving)
