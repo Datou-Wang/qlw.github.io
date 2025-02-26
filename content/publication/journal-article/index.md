@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Passive acoustic localization of submarine cable breakdowns using MUSIC algorithm combined with deep learning"
 authors:
 - admin
 - Robert Ford
@@ -18,7 +18,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Marine Geophysical Research, 1*(1)"
 publication_short: ""
 
 abstract: Submarine cables are critical for long-distance communications and power transmission, but they frequently encounter hostile marine environments, which can cause insulation breakdowns. Traditional detection methods are limited to varying degrees, because submarine cables are usually buried in offshore waters with turbidity and fast flow. Submarine cables emit acoustic signals during insulation breakdown discharges, providing possibility to detect faults via acoustic localization. Here, we propose a passive acoustic localization method for submarine cable breakdowns using the multiple signal classification (MUSIC) combined with a deep learning model. A database of cable breakdown-acoustic signals was first recorded in an anechoic tank, which was used to train the deep learning model YOLOv3. The orientation of the breakdown-acoustic signals were successfully detected using a six-element uniform circular array (UCA-6) in combination with the MUSIC algorithm. The passive acoustic localization method was validated by experiment in the ocean with a localization error of less than 2°. Our results indicate the potential of passive acoustic localization method for submarine cable breakdown detection.
