@@ -15,7 +15,7 @@ sections:
           image:
             filename: OAW.jpg
             filters:
-              brightness: 0.7
+              brightness: 0.5
           position: right
           color: '#666'
     design:
